@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="22"/>
     <img src='https://img.shields.io/badge/Figma-fff?logo=Figma&logoColor=F24E1E' height=22/>
     <img src='https://img.shields.io/badge/HTML5-fff?logo=HTML5' height=22/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" height="22"/>
     <img src='https://img.shields.io/badge/CSS-1572B6?logo=CSS3' height=22/>
 </p>
 
