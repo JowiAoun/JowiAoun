@@ -13,7 +13,9 @@
     <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=FFFFFF" height="22"/>
     <img src='https://img.shields.io/badge/React-20232a?logo=React&logoColor=61DAFB' height=22/>
     <img src='https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=fff' height=22/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="22"/>
     <img src='https://img.shields.io/badge/Figma-fff?logo=Figma&logoColor=F24E1E' height=22/>
     <img src='https://img.shields.io/badge/HTML5-fff?logo=HTML5' height=22/>
