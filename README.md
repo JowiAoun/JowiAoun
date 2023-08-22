@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900" height="22"/>
     <img src='https://img.shields.io/badge/Python-306998?logo=Python&logoColor=FFD43B' height=22/>
     <img src="https://img.shields.io/badge/Java-ED8B00?logo=oracle&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" height="22"/>
     <img src='https://img.shields.io/badge/Javascript-323330?logo=javascript' height=22/>
     <img src='https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=fff' height=22/>
     <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="22"/>
