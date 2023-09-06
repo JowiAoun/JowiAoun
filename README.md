@@ -24,7 +24,7 @@
     <img src='https://img.shields.io/badge/CSS-1572B6?logo=CSS3' height=22/>
 </p>
 
-Hey! My name is Jowi. Love everything to do with backend and servers, along with some frontend ocasionally.
+Hey! My name is Jowi. Love everything to do with backend and servers.
 
 Eager to learn new things every day, whatever it could be, and love to work in teams. Do contact me!
 
